@@ -772,7 +772,7 @@ export default function App() {
                       href={item.url}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="absolute inset-0 z-0 cursor-pointer pointer-events-auto"
+                      className="absolute inset-0 z-10 cursor-pointer pointer-events-auto"
                       aria-label={`访问 ${item.title}`}
                     />
 
