@@ -1,0 +1,6 @@
+{
+  "name": "Language Learning Navigation",
+  "description": "A clean, responsive, and elegant card-style portal for navigating to English and French language learning applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
